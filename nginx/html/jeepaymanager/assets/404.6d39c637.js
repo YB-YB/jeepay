@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as a,a as e}from"./index.820a50c5.js";var o="/assets/404.cd1a2daf.svg";const c={},n={class:"result-err"};function _(l,s,d,i,p,f){return t(),a("div",n,s[0]||(s[0]=[e("img",{src:o,alt:""},null,-1),e("div",null,"\u62B1\u6B49\uFF0C\u60A8\u8BBF\u95EE\u7684\u9875\u9762\u4E0D\u5B58\u5728\u3002",-1)]))}var m=r(c,[["render",_]]);export{m as default};
